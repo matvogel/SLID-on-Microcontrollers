@@ -6,3 +6,4 @@ cmsis-scirpts
 cmsis_examples
 /audio_processing/data/train/
 /audio_processing/data/test/
+.idea
