@@ -1,0 +1,4 @@
+language_classification_data.c:20800:11:ai_language_classification_data_activations_buffer_get	72	static
+language_classification_data.c:20818:11:ai_language_classification_data_weights_buffer_get	72	static
+language_classification_data.c:20836:11:ai_language_classification_data_weights_get	4	static
+language_classification_data.c:20855:9:ai_language_classification_data_params_get	32	static

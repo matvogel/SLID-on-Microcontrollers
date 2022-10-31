@@ -1,0 +1,4 @@
+support.c:20:8:sbrk	24	static
+support.c:33:8:_sbrk	16	static
+support.c:35:6:__malloc_lock	4	static
+support.c:36:6:__malloc_unlock	4	static

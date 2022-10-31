@@ -1,0 +1,13 @@
+language_classification.c:1048:9:language_classification_configure_activations	24	static
+language_classification.c:1112:9:language_classification_configure_weights	24	static
+language_classification.c:1187:9:ai_language_classification_get_info	144	static
+language_classification.c:1233:9:ai_language_classification_get_report	144	static
+language_classification.c:1279:10:ai_language_classification_get_error	16	static
+language_classification.c:1285:10:ai_language_classification_create	24	static
+language_classification.c:1295:10:ai_language_classification_create_and_init	96	static
+language_classification.c:1329:12:ai_language_classification_inputs_get	16	static
+language_classification.c:1339:12:ai_language_classification_outputs_get	16	static
+language_classification.c:1349:11:ai_language_classification_destroy	16	static
+language_classification.c:1355:9:ai_language_classification_init	24	static
+language_classification.c:1372:8:ai_language_classification_run	24	static
+language_classification.c:1379:8:ai_language_classification_forward	16	static

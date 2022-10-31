@@ -1,0 +1,9 @@
+stm32l4xx_hal_msp.c:65:6:HAL_MspInit	16	static
+stm32l4xx_hal_msp.c:87:6:HAL_CRC_MspInit	24	static
+stm32l4xx_hal_msp.c:109:6:HAL_CRC_MspDeInit	16	static
+stm32l4xx_hal_msp.c:134:6:HAL_DFSDM_FilterMspInit	184	static
+stm32l4xx_hal_msp.c:210:6:HAL_DFSDM_ChannelMspInit	184	static
+stm32l4xx_hal_msp.c:260:6:HAL_DFSDM_FilterMspDeInit	16	static
+stm32l4xx_hal_msp.c:296:6:HAL_DFSDM_ChannelMspDeInit	16	static
+stm32l4xx_hal_msp.c:326:6:HAL_USART_MspInit	184	static
+stm32l4xx_hal_msp.c:373:6:HAL_USART_MspDeInit	16	static

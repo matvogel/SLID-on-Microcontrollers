@@ -1,0 +1,4 @@
+CycleCounter.c:3:6:ResetTimer	4	static
+CycleCounter.c:12:6:StartTimer	4	static
+CycleCounter.c:16:6:StopTimer	4	static
+CycleCounter.c:20:14:getCycles	4	static
